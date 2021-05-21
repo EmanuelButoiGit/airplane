@@ -1,0 +1,9 @@
+﻿  Patrat.c
+c:\users\mr. emy\documents\visual studio 2015\projects\avion\proiect_grafica\patrat.c(26): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+c:\users\mr. emy\documents\visual studio 2015\projects\avion\proiect_grafica\patrat.c(278): warning C4133: 'function': incompatible types - from 'char [40]' to 'LPCWSTR'
+c:\users\mr. emy\documents\visual studio 2015\projects\avion\proiect_grafica\patrat.c(288): warning C4028: formal parameter 1 different from declaration
+c:\users\mr. emy\documents\visual studio 2015\projects\avion\proiect_grafica\patrat.c(289): warning C4028: formal parameter 1 different from declaration
+c:\users\mr. emy\documents\visual studio 2015\projects\avion\proiect_grafica\patrat.c(290): warning C4028: formal parameter 1 different from declaration
+c:\users\mr. emy\documents\visual studio 2015\projects\avion\proiect_grafica\patrat.c(291): warning C4028: formal parameter 1 different from declaration
+  Proiect_Grafica.vcxproj -> C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Avion\Proiect_Grafica\Debug\Proiect_Grafica.exe
+  Proiect_Grafica.vcxproj -> C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\Avion\Proiect_Grafica\Debug\Proiect_Grafica.pdb (Full PDB)
